@@ -1,4 +1,5 @@
 Project: Caesar Cipher
+
 Make a caesar cipher program that takes a string and shift factor, modifies the string and then outputs the new string.
 
 For this project I focused on practicing the principles within the Problem Solving curriculum: Understanding the Problem, Planning, Divide and Conquer. I created an initial pseudo code and then modified the pseudo code after more investigation. Finally after having a firm grasp on the algorithm I began to write the actual code.
@@ -15,6 +16,7 @@ Put it all together and output new string
 
 
 Understanding the Problem:
+
 I need to make a program that can take a given string and modify it.
 The characters in a string will need to be converted into integers.
 The integers will need to be converted back to characters.
@@ -22,7 +24,8 @@ The wrap around will require some modulus math I will need to look up.
 I need to figure out how to address spaces punctuation and case sensitivity.
 
 
-Divide and Conquer
+Divide and Conquer:
+
 Start with a program that takes a given string and outputs a string
 Start the modified version without wrap around
 Ignore punctuation and capitalization until later
