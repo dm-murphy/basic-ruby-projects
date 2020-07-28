@@ -25,7 +25,7 @@ End loop once everything is swapped
 Return sorted array
 ~~~
 
-#Final Pseudo Code:*
+*Final Pseudo Code:*
 ~~~
 Define a method bubble_sort with parameter array
 
