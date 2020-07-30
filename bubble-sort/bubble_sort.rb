@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Define a method bubble_sort with parameter array
 # Create a variable n equal to the array's length
 # Loop until array's length (n) is less than or equal to 1
